@@ -1,0 +1,3 @@
+tugas week0 : 
+- membuat akun google dan akun github
+- login ke server badak melalui host kawung
