@@ -1,0 +1,3 @@
+tugas week1 :
+- melakukan eksekusi dasar git
+- melakukan pemrograman dasar linux
