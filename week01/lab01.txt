@@ -20,7 +20,4 @@ drwxr-xr-x  2 abdurrahman.saleh51 StafCS 4096 Feb 16 12:25 week09
 drwxr-xr-x  2 abdurrahman.saleh51 StafCS 4096 Feb 16 12:25 week10
 drwxr-xr-x  2 abdurrahman.saleh51 StafCS 4096 Feb 16 12:19 xtra
 /home/fasilkom/mahasiswa/a/abdurrahman.saleh51/os171/week01
-Today is %DATE
-Today is date +%d\ %b\ %Y\ at %H:%M:%S
-Today is 
 Today is 16 Feb 2017 at 20:40:22
