@@ -1,0 +1,6 @@
+w00-170210-10-LR-About : Introduction to Operating Systems
+w00-170211-19-PS-Introduction to github, and badak ssh
+w01-170214-10-LR-About : HKI
+w01-170216-10-LR-About : Scripting
+w01-170216-13-PS-Introduction to git, CLI, and scripting
+w01-170216-19-DS-Discuss week01 task
