@@ -4,3 +4,5 @@ w01-170214-10-LR-About : HKI
 w01-170216-10-LR-About : Scripting
 w01-170216-13-PS-Introduction to git, CLI, and scripting
 w01-170216-19-DS-Discuss week01 task
+w02-170222-20-PS-Introduction to tunneling, advanced linux programming and and C
+w03-170303-20-PS-Linux booting and startup
